@@ -34,13 +34,6 @@ Currently, I’m:
 
 ---
 
-## 🎓 Education  
-
-**BSc (Hons), Software Engineering**  
-*The Manchester Metropolitan University (2018 - 2022)*  
-
----
-
 ### 📌 Fun Fact  
 
 Every day is a chance to innovate, and I’m here to create solutions that **transform data into action**!  
